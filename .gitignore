@@ -26,3 +26,5 @@ extra/exe-builder/obj
 
 .vs
 .vscode
+*.swo
+*.swp

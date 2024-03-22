@@ -795,6 +795,7 @@ let needSetup = false;
                 bean.kafkaProducerAllowAutoTopicCreation =
                     monitor.kafkaProducerAllowAutoTopicCreation;
                 bean.gamedigGivenPortOnly = monitor.gamedigGivenPortOnly;
+                bean.jsonResultForm = monitor.jsonResultForm;
 
                 bean.validate();
 
